@@ -1,0 +1,13 @@
+2023-08-06 08:12:58.106612 - Initialized conversion of CBT884
+2023-08-06 08:12:58.847747 - Received CBT.V505.FILE884.PDS from FILE884.XMI 
+2023-08-06 08:12:58.850271 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE884.PDS, moved to PDS/$$$#DATE
+2023-08-06 08:12:58.851364 - Found $PDSLOAD.jcl (text/plain) in CBT.V505.FILE884.PDS, moved to PDS/$PDSLOAD
+2023-08-06 08:12:58.852438 - Found @FILE884.txt (text/plain) in CBT.V505.FILE884.PDS, moved to PDS/@FILE884
+2023-08-06 08:12:58.853620 - Found ASM.txt (text/plain) in CBT.V505.FILE884.PDS, moved to PDS/ASM
+2023-08-06 08:12:58.854612 - Found JCL.txt (text/plain) in CBT.V505.FILE884.PDS, moved to PDS/JCL
+2023-08-06 08:12:58.855609 - Found LKED.txt (text/plain) in CBT.V505.FILE884.PDS, moved to PDS/LKED
+2023-08-06 08:12:58.856528 - Found MACJCL.txt (text/plain) in CBT.V505.FILE884.PDS, moved to PDS/MACJCL
+2023-08-06 08:12:58.858649 - Found MACLIB.txt (text/plain) in CBT.V505.FILE884.PDS, moved to PDS/MACLIB
+2023-08-06 08:12:58.864544 - Found PDSLOAD.xmi (application/xmit) in CBT.V505.FILE884.PDS
+2023-08-06 08:12:58.872237   - Received RECFM=U data, stored XMIT file as CBT884/PDSLOAD.xmi
+2023-08-06 08:12:58.873125 - Found PROCLIB.txt (text/plain) in CBT.V505.FILE884.PDS, moved to PDS/PROCLIB
