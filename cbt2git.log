@@ -1,0 +1,14 @@
+2025-04-13 23:46:48.114720 - Received CBT.V508.FILE884.PDS from FILE884.XMI 
+2025-04-13 23:46:48.115595 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE884.PDS, moved to PDS/$$$#DATE
+2025-04-13 23:46:48.115669 - Found $PDSLOAD.jcl (text/plain) in CBT.V508.FILE884.PDS, moved to PDS/$PDSLOAD
+2025-04-13 23:46:48.115749 - Found @FILE884.txt (text/plain) in CBT.V508.FILE884.PDS, moved to PDS/@FILE884
+2025-04-13 23:46:48.116046 - Found ASM.txt (text/plain) in CBT.V508.FILE884.PDS, moved to PDS/ASM
+2025-04-13 23:46:48.116123 - Found JCL.txt (text/plain) in CBT.V508.FILE884.PDS, moved to PDS/JCL
+2025-04-13 23:46:48.116188 - Found LKED.txt (text/plain) in CBT.V508.FILE884.PDS, moved to PDS/LKED
+2025-04-13 23:46:48.116258 - Found MACJCL.txt (text/plain) in CBT.V508.FILE884.PDS, moved to PDS/MACJCL
+2025-04-13 23:46:48.117507 - Found MACLIB.txt (text/plain) in CBT.V508.FILE884.PDS, moved to PDS/MACLIB
+2025-04-13 23:46:48.117591 - Found PDSLOAD.xmi (application/xmit) in CBT.V508.FILE884.PDS, moved to PDS/PDSLOAD.xmi
+2025-04-13 23:46:48.123602 - Received SBGOLOB.LOAD from PDSLOAD.xmi 
+2025-04-13 23:46:48.123998 - Found PDSLOAD.bin (application/octet-stream) in SBGOLOB.LOAD, moved to PDSLOAD/PDSLOAD
+2025-04-13 23:46:48.124074 - Found alias PDSLOADW to PDSLOAD in SBGOLOB.LOAD, moved to PDS/PDSLOADW
+2025-04-13 23:46:48.124274 - Found PROCLIB.txt (text/plain) in CBT.V508.FILE884.PDS, moved to PDS/PROCLIB
